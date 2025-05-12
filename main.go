@@ -1,8 +1,8 @@
 package main
 
 import (
-	"E1Link/utils"
 	"fmt"
+	"github.com/brettbeloin/E1LinkCP/utils"
 )
 
 func main() {
