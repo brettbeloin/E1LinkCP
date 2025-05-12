@@ -1,3 +1,3 @@
-module github.com/brettbeloin/E1LinkCP
+module E1Link
 
 go 1.24.2
