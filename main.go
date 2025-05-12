@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	w := singelLink.NewSingleLinkList[int]()
+	w := utils.NewSingleLinkList[int]()
 	w.Add(1)
 	w.Add(2)
 	w.Add(21)

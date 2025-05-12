@@ -1,4 +1,4 @@
-package singelLink
+package utils
 
 import (
 	"fmt"
